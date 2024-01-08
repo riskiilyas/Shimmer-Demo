@@ -1,16 +1,6 @@
 # shimmer_demo
 
-A new Flutter project.
+![image](https://github.com/riskiilyas/Shimmer-Demo/assets/71499142/726e0296-2b01-40cb-9b4f-657459fb0667)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Full Article Guide
+https://medium.com/@riskiilyas03/how-to-show-shimmer-effect-when-loading-data-in-flutter-real-case-implementation-ab6aea026ec1
